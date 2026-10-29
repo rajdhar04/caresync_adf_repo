@@ -11,15 +11,6 @@
 		"LS_AzureKeyVault_properties_typeProperties_baseUrl": {
 			"value": "https://caresync-keyvault-rkd.vault.azure.net/"
 		},
-		"LS_PostgreSql_properties_typeProperties_server": {
-			"value": "ep-crimson-dew-a1pkoawa-pooler.ap-southeast-1.aws.neon.tech"
-		},
-		"LS_PostgreSql_properties_typeProperties_database": {
-			"value": "neondb"
-		},
-		"LS_PostgreSql_properties_typeProperties_username": {
-			"value": "neondb_owner"
-		},
 		"LS_AzureSqlDatabase_properties_typeProperties_server": {
 			"value": "caresync-server-rkd.database.windows.net"
 		},
@@ -28,6 +19,15 @@
 		},
 		"LS_AzureSqlDatabase_properties_typeProperties_userName": {
 			"value": "rajdhar"
+		},
+		"LS_PostgreSql_properties_typeProperties_server": {
+			"value": "ep-crimson-dew-a1pkoawa-pooler.ap-southeast-1.aws.neon.tech"
+		},
+		"LS_PostgreSql_properties_typeProperties_database": {
+			"value": "neondb"
+		},
+		"LS_PostgreSql_properties_typeProperties_username": {
+			"value": "neondb_owner"
 		},
 		"containerUri": {
 			"value": ""
