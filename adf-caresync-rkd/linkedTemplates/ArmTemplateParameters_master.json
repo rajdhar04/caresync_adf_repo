@@ -20,6 +20,15 @@
 		"LS_PostgreSql_properties_typeProperties_username": {
 			"value": "neondb_owner"
 		},
+		"LS_AzureSqlDatabase_properties_typeProperties_server": {
+			"value": "caresync-server-rkd.database.windows.net"
+		},
+		"LS_AzureSqlDatabase_properties_typeProperties_database": {
+			"value": "sql-db-caresync"
+		},
+		"LS_AzureSqlDatabase_properties_typeProperties_userName": {
+			"value": "rajdhar"
+		},
 		"containerUri": {
 			"value": ""
 		},
